@@ -4,7 +4,7 @@ A console-based Hospital Management System built using C++ (OOP principles).
 This project manages doctors, patients, appointments, and hospital beds using structured architecture and JSON storage.
 
 📌 Features
-👨‍⚕️ Doctor Management
+👨‍⚕️ **Doctor Management**
 
 Add new doctors
 
@@ -14,7 +14,8 @@ View booked appointment slots
 
 Display patient names for each booked slot
 
-🧑‍🤝‍🧑 Patient Management
+
+🧑‍🤝‍🧑 **Patient Management**
 
 Register new patients
 
@@ -22,7 +23,8 @@ Book appointments based on doctor's availability
 
 Prevent double booking of time slots
 
-📅 Appointment System
+
+📅 **Appointment System**
 
 Patients choose a day
 
@@ -32,7 +34,8 @@ Book appointment with time slot
 
 Store appointments persistently in JSON
 
-🛏 Bed Management
+
+🛏 **Bed Management**
 
 Set total number of beds (e.g., 100 beds)
 
@@ -40,7 +43,9 @@ Track occupied / available beds
 
 Admit and discharge patients
 
-💾 Data Storage
+
+
+💾 **Data Storage**
 
 Uses JSON files inside:
 
@@ -50,7 +55,9 @@ src/storage/
     appointments.json
     beds.json
 
-🏗 Project Structure
+## 🏗 **Project Structure**
+
+```
 src/
 │
 ├── core/
@@ -72,8 +79,9 @@ src/
 │   └── beds.json
 │
 └── main.cpp
+```
 
-🧠 OOP Concepts Used
+🧠 **OOP Concepts Used**
 
 Classes & Objects
 
