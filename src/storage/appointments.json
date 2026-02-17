@@ -1,0 +1,74 @@
+[
+    {
+        "appointmentID": "A117566",
+        "day": "friday",
+        "doctorID": "D123286",
+        "patientID": "P121086",
+        "patientName": "SuperSupu Khan",
+        "slot": "09:59-10:14"
+    },
+    {
+        "appointmentID": "A127764",
+        "day": "Friday",
+        "doctorID": "D123286",
+        "patientID": "P121086",
+        "patientName": "SuperSupu Khan",
+        "slot": "10:29-10:44"
+    },
+    {
+        "appointmentID": "A128596",
+        "day": "Friday",
+        "doctorID": "D123286",
+        "patientID": "P121086",
+        "patientName": "SuperSupu Khan",
+        "slot": "11:14-11:29"
+    },
+    {
+        "appointmentID": "A128956",
+        "day": "Friday",
+        "doctorID": "D123286",
+        "patientID": "P121086",
+        "patientName": "SuperSupu Khan",
+        "slot": "10:44-10:59"
+    },
+    {
+        "appointmentID": "A113997",
+        "day": "Friday",
+        "doctorID": "D123286",
+        "patientID": "P121086",
+        "patientName": "SuperSupu Khan",
+        "slot": "07:59-08:14"
+    },
+    {
+        "appointmentID": "A129628",
+        "day": "Friday",
+        "doctorID": "D123286",
+        "patientID": "P121086",
+        "patientName": "SuperSupu Khan",
+        "slot": "08:29-08:44"
+    },
+    {
+        "appointmentID": "A124141",
+        "day": "Monday",
+        "doctorID": "D123286",
+        "patientID": "P104185",
+        "patientName": "Peejuice metra",
+        "slot": "10:59-11:14"
+    },
+    {
+        "appointmentID": "A113331",
+        "day": "Monday",
+        "doctorID": "D123286",
+        "patientID": "P121086",
+        "patientName": "SuperSupu Khan",
+        "slot": "08:59-09:14"
+    },
+    {
+        "appointmentID": "A114108",
+        "day": "Monday",
+        "doctorID": "D123286",
+        "patientID": "P121086",
+        "patientName": "SuperSupu Khan",
+        "slot": "08:44-08:59"
+    }
+]

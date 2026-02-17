@@ -1,0 +1,602 @@
+[
+    {
+        "bedID": "B1",
+        "occupied": true,
+        "patientID": "P115659",
+        "patientName": "defcon"
+    },
+    {
+        "bedID": "B2",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B3",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B4",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B5",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B6",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B7",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B8",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B9",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B10",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B11",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B12",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B13",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B14",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B15",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B16",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B17",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B18",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B19",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B20",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B21",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B22",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B23",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B24",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B25",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B26",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B27",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B28",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B29",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B30",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B31",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B32",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B33",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B34",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B35",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B36",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B37",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B38",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B39",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B40",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B41",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B42",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B43",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B44",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B45",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B46",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B47",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B48",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B49",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B50",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B51",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B52",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B53",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B54",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B55",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B56",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B57",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B58",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B59",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B60",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B61",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B62",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B63",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B64",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B65",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B66",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B67",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B68",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B69",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B70",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B71",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B72",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B73",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B74",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B75",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B76",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B77",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B78",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B79",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B80",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B81",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B82",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B83",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B84",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B85",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B86",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B87",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B88",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B89",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B90",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B91",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B92",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B93",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B94",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B95",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B96",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B97",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B98",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B99",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    },
+    {
+        "bedID": "B100",
+        "occupied": false,
+        "patientID": "",
+        "patientName": ""
+    }
+]
