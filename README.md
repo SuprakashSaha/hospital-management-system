@@ -50,7 +50,9 @@ src/storage/
     appointments.json
     beds.json
 
-🏗 Project Structure
+## 🏗 Project Structure
+
+```
 src/
 │
 ├── core/
@@ -72,6 +74,7 @@ src/
 │   └── beds.json
 │
 └── main.cpp
+```
 
 🧠 OOP Concepts Used
 
